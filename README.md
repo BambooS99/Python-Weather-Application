@@ -8,4 +8,5 @@ is being used, the key for the API must be renewed every so often, which can be 
 To use this software simply download all the files and keep them in the same folder/ directory. either .exe or .py file can be run by the
 user.
 
+For the extra files attached; these are screenshots of the program working in case the API needs to be renewed/ has expired as it is used on a trial basis. Screenshot 2 shows how errors are being handled within the application.
 
